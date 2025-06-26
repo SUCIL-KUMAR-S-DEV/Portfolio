@@ -9,7 +9,6 @@ menuIcon.onclick = () => {
 function myFunction(optionGiven) {
     switch (optionGiven) {
         case 1:
-            alert("Visting Certifications Page!");
             window.location.href = "https://sucil-kumar-s-dev.github.io/Certificates/";
             break;
             
