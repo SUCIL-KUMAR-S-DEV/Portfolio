@@ -13,11 +13,23 @@ function myFunction(optionGiven) {
             break;
             
         case 2:
-            window.location.href = "https://sucil-kumar-s.github.io/To-Do-List/";
+            window.location.href = "https://sucil-kumar-s-dev.github.io/To-Do-List/";
             break;
 
         case 3:
-            window.location.href = "https://sucil-kumar-s.github.io/Calculator/";
+            window.location.href = "https://sucil-kumar-s-dev.github.io/Calculator/";
+            break;
+
+        case 4:
+            window.location.href = "https://sucil-kumar-s-dev.github.io/Ball-Game/";
+            break;
+
+        case 5:
+            window.location.href = "#";
+            break;
+
+        case 6:
+            window.location.href = "#";
             break;
     
         default:
