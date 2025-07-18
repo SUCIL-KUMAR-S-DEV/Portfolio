@@ -25,7 +25,7 @@ function myFunction(optionGiven) {
             break;
 
         case 5:
-            window.location.href = "#";
+            window.location.href = "https://sucil-kumar-s-dev.github.io/Weather-Site/";
             break;
 
         case 6:
