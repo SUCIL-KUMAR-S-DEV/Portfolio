@@ -29,7 +29,7 @@ function myFunction(optionGiven) {
             break;
 
         case 6:
-            window.location.href = "#";
+            window.location.href = "https://sucil-kumar-s-dev.github.io/Text-to-Speech/";
             break;
     
         default:
