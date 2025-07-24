@@ -48,7 +48,7 @@ window.onscroll = () => {
         let id = sec.getAttribute('id');
 
         if(top >= offset && top < offset + height){
-            navLinks.forEach.apply(links => {
+            navLinks.forEach(links => {
                 links.classList.remove('active');
                 document.querySelector('header nav a[href*=' + id + ']').classList.add('active');
             });
@@ -64,10 +64,10 @@ window.onscroll = () => {
 };
 ScrollReveal({
     distance: '80px',
-    duriation: 2000,
+    duration: 2000,
     delay: 200,
 });
-ScroolReveal().reveal('.home-content, heading', { orgin: 'top' });
-ScroolReveal().reveal('.home-img, .services-container, .portfolio-box, .contact form', { orgin: 'bottom' });
-ScroolReveal().reveal('.home-content h1, .about-img', { orgin: 'left' });
-ScroolReveal().reveal('.home-content p, .about-content', { orgin: 'right' });
+ScrollReveal().reveal('.home-content, .heading', { origin: 'top' });
+ScrollReveal().reveal('.home-img, .services-container, .portfolio-box, .contact form', { origin: 'bottom' });
+ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
+ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
