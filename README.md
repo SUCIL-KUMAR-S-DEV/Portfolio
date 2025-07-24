@@ -10,8 +10,12 @@ This is a **personal portfolio website** built with HTML, CSS, and JavaScript. I
 - Scroll-activated navigation highlights
 - Animated reveal effects using **ScrollReveal**
 - Portfolio projects linking to:
-  - [To-Do List App](https://sucil-kumar-s.github.io/To-Do-List/)
-  - [Calculator App](https://sucil-kumar-s.github.io/Calculator/)
+  - [Certificates](https://sucil-kumar-s-dev.github.io/Certificates/)
+  - [To-Do-List](https://sucil-kumar-s-dev.github.io/To-Do-List/)
+  - [Calculator](https://sucil-kumar-s-dev.github.io/Calculator/)
+  - [Ball-Game](https://sucil-kumar-s-dev.github.io/Ball-Game/)
+  - [Weather-Site](https://sucil-kumar-s-dev.github.io/Weather-Site/)
+  - [Text-to-Speech](https://sucil-kumar-s-dev.github.io/Text-to-Speech/)
 - Custom alerts and redirections
 - A contact form for message entry (frontend only)
 - Data collection and management using **Local Storage** (in Sign-Up pages or JS projects)
@@ -62,13 +66,20 @@ This is a **personal portfolio website** built with HTML, CSS, and JavaScript. I
 
 ## 📸 Screenshots
 
-_Add images of your home page, about section, and portfolio thumbnails here._
+### Windows Page:
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/70756a29-8538-41b7-a1da-a12990b5559f" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/70b1fc60-17c8-4934-b951-2b0a0e259c20" />
+
+
+### Mobile Page:
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2506b6b1-4285-4476-9992-cc8108255c76" /> <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/eb1cf311-ee9c-42c8-863a-fa68622b5289" />
 
 ---
 
 ## 🙋‍♂️ About Me
 
-Hi, I'm **Sucil Kumar S**, a passionate **Computer Science Engineer** who dreams of becoming a Cyber Security Specialist. I enjoy building interactive web apps and learning new technologies.
+Hi, I'm **Sucil Kumar S**, a passionate **Computer Science Engineer** who dreams of becoming a Software Engineer. I enjoy building interactive web apps and learning new technologies.
 
 📄 [Download My CV](https://drive.google.com/file/d/113fx9oS4voV-QdetTLch39oqv2ZE8wSS/view?usp=sharing)
 
