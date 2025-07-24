@@ -142,7 +142,7 @@ span{
     font-weight: 600;
     transition: .5s ease;
 }
-.btn :hover{
+.btn:hover{
     box-shadow: none;
 }
 .about{
@@ -373,9 +373,10 @@ span{
         border-top: .1rem solid rgba(0 , 0, 0, .2);
         box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2);
         display: none;
+        flex-direction: column;
     }
-    .navbar .active{
-        display: block;
+    .navbar.active{
+        display: flex;
     }
     .navbar a{
         display: block;
