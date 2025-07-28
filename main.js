@@ -21,7 +21,7 @@ function myFunction(optionGiven) {
             break;
 
         case 4:
-            window.location.href = "https://sucil-kumar-s-dev.github.io/Calculator/";
+            window.location.href = "https://sucil-kumar-s-dev.github.io/QR-Code-Generator/";
             break;
 
         case 5:
