@@ -13,7 +13,7 @@ This is a **personal portfolio website** built with HTML, CSS, and JavaScript. I
   - [Certificates](https://sucil-kumar-s-dev.github.io/Certificates/)
   - [To-Do-List](https://sucil-kumar-s-dev.github.io/To-Do-List/)
   - [Calculator](https://sucil-kumar-s-dev.github.io/Calculator/)
-  - [Ball-Game](https://sucil-kumar-s-dev.github.io/Ball-Game/)
+  - [QR-Code-Generator](https://sucil-kumar-s-dev.github.io/QR-Code-Generator/)
   - [Weather-Site](https://sucil-kumar-s-dev.github.io/Weather-Site/)
   - [Text-to-Speech](https://sucil-kumar-s-dev.github.io/Text-to-Speech/)
 - Custom alerts and redirections
